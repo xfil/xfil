@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xfil
+- 👀 I’m interested in Science and data analysis
+- 🌱 I’m currently trying to improve my skills on Python, Machine Learning, Statistics
